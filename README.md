@@ -6,7 +6,8 @@ task 1
 <img width="957" height="1016" alt="4" src="https://github.com/user-attachments/assets/6fd3c902-a127-4044-a536-14a376ac2340" />
 
 **Give a short one paragraph description of VirtualBox and OpenWRT. That is, describe them so a new IT student could understand what they are.**
-**VirtualBox **
+
+**VirtualBox**
 It is a free and open-source software that lets you run multiple operating systems on a single computer. It works by creating something called a virtual machine, which acts like a separate computer inside your real one. This means you can install and use different operating systems—like Windows, Linux, or even older versions of macOS—without having to wipe your current system or buy extra hardware.
 **OpenWRT**
 OpenWRT is a free and open-source operating system designed for routers and other small devices. It replaces the basic software (called firmware) that usually comes pre-installed on home routers, giving you much more control over how your network works.
